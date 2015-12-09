@@ -1,2 +1,0 @@
-# around-apex
-Apex homepage
